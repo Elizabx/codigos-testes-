@@ -1,16 +1,16 @@
 body{
     font-family: 'Times New Roman', Times, serif;
-    background-color: #4c2b08;
+    background-color: #b3b4ba;
 }
 div{
-    background-color: #6d3914;
+    background-color: #e2e2df;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
     padding: 80px;
     border-radius: 15px;
-    color: #b7957f;
+    color: #131212;
 }
 input{
     padding: 15px;
@@ -19,7 +19,7 @@ input{
     font-size: 15px;
 }
 .inputSubmit{
-    background-color: #895d2b;
+    background-color: #6c6c6a;
     border: none;
     padding: 15px;
     width: 100%;
@@ -29,10 +29,10 @@ input{
     cursor: pointer;
 }
 .inputSubmit:hover{
-    background-color: #e8d1a7;
+    background-color: #313331;
 }
 .inputVoltar{
-    background-color: #895d2b;
+    background-color: #6c6c6a;
     border: none;
     padding: 15px;
     width: 100%;
@@ -42,5 +42,5 @@ input{
     cursor: pointer;
 }
 .inputVoltar:hover{
-    background-color: #e8d1a7;
+    background-color: #313331;
 }
