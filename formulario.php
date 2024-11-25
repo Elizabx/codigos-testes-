@@ -16,7 +16,7 @@
         $endereco = $_POST['endereco'];
 
         $result = mysqli_query($conexao, "INSERT INTO usuarios(nome, email, senha, telefone, genero, dataNascimento, cidade, estado, endereco) VALUES ('$nome', '$email', '$senha', '$telefone', '$genero', '$dataNascimento', '$cidade', '$estado', '$endereco')");
-        
+
     }
 
 ?>
