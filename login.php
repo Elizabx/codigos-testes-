@@ -13,7 +13,7 @@
         <form action="testLogin.php" method="POST">
             <input type="text" name="email" placeholder="Email">
             <br><br>
-            <input type="password" naame="senha" placeholder="Senha">
+            <input type="password" name="senha" placeholder="Senha">
             <br><br>
             <input class="inputSubmit" type="submit" name="submit" value="Enviar">
             </form>
