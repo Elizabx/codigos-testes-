@@ -6,9 +6,9 @@
     <title>SITE | PS</title>
 </head>
 <body>
-    <h1>Seja Bem Vindo!</h1>
-    <h2>Faça sua reserva. Priorize sua privacidade e seu conforto!</h2>
     <div class="box">
+     <h1>Seja Bem Vindo!</h1>
+     <h2>Faça sua reserva. Priorize sua privacidade e seu conforto!</h2>
         <a href="login.php">Login</a>
         <a href="formulario.php">Cadastre-se</a>
     </div>
